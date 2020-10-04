@@ -51,7 +51,7 @@ function MessagesScreen(props) {
           setMessages([
             {
               id: 2,
-              title: "T2",
+              title: "T3",
               description: "D2",
               image: require("../assets/mosh.jpg"),
             },

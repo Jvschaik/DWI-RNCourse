@@ -1,10 +1,9 @@
 import React, {useState} from "react";
-import ListingDetailsScreen from "./app/screens/ListingDetailsScreen";
-import ListingEditScreen from "./app/screens/ListingEditScreen";
+import MessagesScreen from "./app/screens/MessagesScreen";
 
 export default function App() {
   
   return (
-    <ListingDetailsScreen />
+    <MessagesScreen />
   );
 }
